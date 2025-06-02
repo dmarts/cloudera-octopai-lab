@@ -1,5 +1,29 @@
 # Octopai Hands-On-Labs
 Welcome to Octopai Data Lineage Hands-On Workshop by Cloudera 
+# 🔍 Introduction to Data Lineage & Octopai
+Before we jump into the hands-on scenario, let’s take a moment to understand what Data Lineage is and how Octopai helps solve real-world data issues.
+
+## 📌 What is Data Lineage?
+Data lineage is the ability to track the flow of data from its origin all the way to its final destination — across ETL pipelines, databases, reports, and dashboards. It helps answer critical questions like:
+
+- Where did this data come from?
+- What transformations were applied?
+- Why does this value look incorrect?
+
+Lineage empowers data engineers and analysts to debug faster, audit changes, and trust their data.
+
+## 🚀 What is Octopai?
+Octopai is an automated data intelligence platform that visualizes cross-system data lineage across:
+
+- ETL tools (like Informatica, SSIS, DataStage)
+- Databases (e.g., SQL Server)
+- Reporting tools (like Power BI)
+
+With Octopai, you can instantly:
+- See upstream and downstream lineage
+- Search for any column or process across systems
+- Understand data dependencies and transformations in seconds
+
 # Scenario
 Imagine you're a data engineer at a fast-growing retail company. This morning, your CEO flagged an anomaly in the "Top Product Sales" report: the value for "Total Product Cost" appears incorrect, significantly deviating from expected benchmarks. As the go-to expert, you've been tasked to quickly identify and debug this discrepancy.
 
